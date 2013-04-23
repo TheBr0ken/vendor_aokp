@@ -21,6 +21,3 @@ else
     endif
 endif
 
-# Camera shutter sound property
-PRODUCT_PROPERTY_OVERRIDES += \
-    persist.sys.camera-sound=1
